@@ -1,0 +1,28 @@
+========= SISTEMA DE FOLHA DE PAGAMENTO =========
+1 - Cadastrar Funcionário Padrão
+2 - Cadastrar Funcionário Comissionado
+3 - Cadastrar Funcionário Produção
+4 - Gerar Folha de Pagamento
+0 - Sair
+
+Escolha uma opção: 2
+
+--- Cadastro Funcionário Comissionado ---
+Matrícula: 234
+Nome: Maria
+Informe valor das vendas: 8000
+Informe comissão percentual: 5
+
+Funcionário comissionado cadastrado com sucesso!
+
+Escolha uma opção: 4
+
+========= FOLHA DE PAGAMENTO =========
+Total de pessoas cadastradas: 1
+
+Tipo: Funcionário Comissionado
+Nome: Maria
+Matrícula: 234
+Salário Base: R$ 2000.0
+Comissão: R$ 400.0
+Salário Final: R$ 2400.0
