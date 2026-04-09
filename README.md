@@ -12,9 +12,9 @@ Objetivos
 - Simular um problema real de folha de pagamento
 
 Tecnologias
-Java
-IntelliJ IDEA
-Git/GitHub
+- Java
+- IntelliJ IDEA
+- Git/GitHub
 
 Funcionalidades:
 - Cadastrar Funcionário Padrão
